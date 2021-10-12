@@ -1,0 +1,5 @@
+ Máu Kiên : 4
+ Máu Toàn : 5
+ Máu Thành : 5
+ Máu Đồng : 5
+ Máu Đạt : 5

@@ -1,0 +1,12 @@
++ Khi bắt đầu mỗi người chơi sẽ có 5 máu để sinh 
+  tồn, số máu này có thể tăng dựa theo khả năng
+  của bạn
++ Khi bot yêu cầu hãy trả lời thật nhanh trong
+  vòng 5 giây hoặc là bạn sẽ mất đi lượt của
+  mình
++ Cuộc chơi sẽ kết thúc khi chỉ còn 1 người còn
+  sống
++ Không được nói những cái khác ngoài những yêu
+  cầu mà bot đưa ra
++ không được sử dụng tài khoản của ngườI khác để
+  chơi
